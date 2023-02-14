@@ -8,7 +8,7 @@ highlight ColorColumn ctermbg=darkgray
 
 set number
 syntax on
-
+set autoindent
 
 map <C-j> <C-W>j
 map <C-k> <C-W>k
