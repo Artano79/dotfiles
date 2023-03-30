@@ -1,6 +1,6 @@
 #!/bin/bash
 
-ln -s ~/dotfiles/.vimrc ~/.vimrc
-ln -s -f ~/dotfiles/.tmux.conf ~/.tmux.conf
-cp ~/dotfiles/.tmux.conf.local ~/.tmux.conf.local
+ln -s -f ~/gitprojects/dotfiles/.vimrc ~/.vimrc
+ln -s -f ~/gitprojects/dotfiles/.tmux.conf ~/.tmux.conf
+ln -s -f ~/gitprojects/dotfiles/.tmux.conf.local ~/.tmux.conf.local
 
